@@ -1,5 +1,4 @@
 Курс состоял из [лекций](info/links/lections.md) и [воркшопов](info/links/practices.md).
+Каждое занятие шло порядка 1,5 - 2 часов. 
 
-Занятия проходили по следующему расписанию: 
-![Расписание занятий](https://github.com/AnatoliiMikh/DSR-Net-School-GUID/assets/images/schedule.PNG)
 
