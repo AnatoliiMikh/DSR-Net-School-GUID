@@ -1,6 +1,7 @@
 # DSR-Net-School-GUID
 
 Ссылки на лекции, которые у нас были в течение курса:
+
 https://youtu.be/96N7wHTCtFs
 
 https://youtu.be/gS2wwh95i2w
@@ -32,6 +33,7 @@ https://youtu.be/2soxrhvOudw
 https://youtu.be/C3EIdiZ1PtQ
 
 Воркшопы (делали пет-проект одновременно с лектором - потом дорабатывали индивидуально по записям):
+
 https://youtu.be/uuKyuLBQkmI
 
 https://youtu.be/bBI49tv9oMs
