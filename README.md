@@ -1,4 +1,4 @@
-Курс состоял из [лекций](info/links/lections.md) и [воркшопов](info/links/practices.md).
+Курс состоял из лекций и воркшопов.
 Каждое [занятие](info/schedule/schedule.md) шло порядка 1,5 - 2 часов. 
 
 
