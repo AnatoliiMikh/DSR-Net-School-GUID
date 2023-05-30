@@ -2,4 +2,4 @@
 
 Занятия проходили по следующему расписанию: 
 [Расписание занятий](
-assets/images/schedule.png
+(assets/images/schedule.png)
