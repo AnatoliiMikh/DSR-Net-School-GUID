@@ -1,4 +1,4 @@
-**10/03/2022 - Lecture 1 - Programmer, who is it****
+**10/03/2022 - Lecture 1 - Programmer, who is it**
 
 **10/06/2022 - Lecture 2 - Net platform**
 
